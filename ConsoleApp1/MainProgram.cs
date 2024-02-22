@@ -2,7 +2,7 @@
 
 // example main class demonstrating how to use the functions
 
-class Program
+class MainProgram
 {
     static void Main(string[] args)
     {
